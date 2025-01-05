@@ -2,8 +2,8 @@
 
 ![App Screenshot](https://github.com/ethan70056/CaptchaSonic-AWSWAF-CAPTCHA-Solver-Extension/blob/main/captchasonic_bannar.png?raw=true)
 
-## **CaptchaSonic AWSWAF-CAPTCHA Solver**  
-*Your automated solution for AWSWAF CAPTCHA challenges*.  
+## **CaptchaSonic H-CAPTCHA Solver**  
+*Your automated solution for H CAPTCHA challenges*.  
 
 ---
 
@@ -13,7 +13,7 @@ CaptchaSonic AI is an intelligent browser extension that automates CAPTCHA solvi
 ---
 
 ### **🌟 Key Features**  
-- **AWSWAF OCR Integration:** Handles complex CAPTCHAs seamlessly.  
+- **H CAPTCHA OCR Integration:** Handles complex CAPTCHAs seamlessly.  
 - **AI-Powered Automation:** Solves CAPTCHAs with minimal human intervention.  
  
 
@@ -65,7 +65,7 @@ CaptchaSonic AI is an intelligent browser extension that automates CAPTCHA solvi
    Paid plans will be introduced, with affordable pricing for all users.  
 
 3. **Does CaptchaSonic work on all websites?**  
-   CaptchaSonic supports a wide range of CAPTCHA challenges, including AWSWAF and similar frameworks.  
+   CaptchaSonic supports a wide range of CAPTCHA challenges.  
 
 4. **Can I request additional features?**  
    Absolutely! We welcome feedback through [our website](https://captchasonic.com) or community channels.  
