@@ -33,7 +33,7 @@ CaptchaSonic AI is an intelligent browser extension that automates CAPTCHA solvi
 ---
 
 ### **📌 Extension Interface**
-![App Screenshot](https://github.com/ethan70056/CaptchaSonic-AWSWAF-CAPTCHA-Solver-Extension/blob/main/AWSwaf.png?raw=true)
+![App Screenshot](https://raw.githubusercontent.com/curl07/hcaptcha-solver/refs/heads/main/captchasonic.png?raw=true)
 ### **⚡ Why Use CaptchaSonic AI?**  
 - **Save Time:** Automates CAPTCHA-solving tasks for RPA workflows and web automation.  
 - **Stay Productive:** Removes delays caused by CAPTCHA challenges.  
