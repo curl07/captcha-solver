@@ -1,6 +1,6 @@
 
 
-![App Screenshot](https://github.com/ethan70056/CaptchaSonic-AWSWAF-CAPTCHA-Solver-Extension/blob/main/captchasonic_bannar.png?raw=true)
+![App Screenshot](https://raw.githubusercontent.com/curl07/hcaptcha-solver/refs/heads/main/captchasonic_bannar.png?raw=true)
 
 ## **CaptchaSonic H-CAPTCHA Solver**  
 *Your automated solution for H CAPTCHA challenges*.  
