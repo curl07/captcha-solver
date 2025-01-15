@@ -2,8 +2,8 @@
 
 ![App Screenshot](https://raw.githubusercontent.com/curl07/hcaptcha-solver/refs/heads/main/captchasonic_bannar.png?raw=true)
 
-## **CaptchaSonic H-CAPTCHA Solver**  
-*Your automated solution for H CAPTCHA challenges*.  
+## **CaptchaSonic CAPTCHA Solver**  
+*Your automated solution for CAPTCHA challenges*.  
 
 ---
 
@@ -70,12 +70,6 @@ CaptchaSonic AI is an intelligent browser extension that automates CAPTCHA solvi
 4. **Can I request additional features?**  
    Absolutely! We welcome feedback through [our website](https://captchasonic.com) or community channels.  
 
----
-
-📄 **License**  
-CaptchaSonic AI is distributed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.  
-
----
 
 **Start using CaptchaSonic AI today and say goodbye to CAPTCHA frustrations forever!**
 
